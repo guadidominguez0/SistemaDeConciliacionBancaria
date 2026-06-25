@@ -121,9 +121,7 @@ El sistema va a crear (o actualizar) las siguientes hojas en tu spreadsheet:
 
 ---
 
-### (Opcional) Paso 7 — Publicar como Web App
-
-Si querés usarlo fuera del spreadsheet, como una app web independiente:
+### Paso 7 — Publicar como Web App
 
 1. En Apps Script, andá a **Implementar → Nueva implementación**.
 2. Hacé clic en el ícono de engranaje y seleccioná **Aplicación web**.
